@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API and attempting to access camera features before the camera has finished initializing.  It's often masked because the error isn't always immediately apparent, instead manifesting as unexpected behavior or crashes later in your application.
